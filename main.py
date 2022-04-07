@@ -58,3 +58,4 @@ def available_on_night(gamers_list, day):
 
 attending_game_night = available_on_night(gamers, game_night)
 # print(*attending_game_night, sep='\n')
+d
